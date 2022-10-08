@@ -17,7 +17,7 @@ if [ -n "$TMUX" ]; then
         pwsh.exe
 fi
 ```
-> You can change "pwsh.exe" to other shell(e.g cmd.exe,bash.exe,sh.exe,etc)
+> You can change "pwsh.exe" to other shell (e.g cmd.exe, bash.exe, sh.exe, etc)
 # Installation
 ## Download our program
 [Download](https://github.com/smarttommyau/tmux-for-windows/releases/tag/Release)
