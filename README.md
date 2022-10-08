@@ -17,10 +17,12 @@ if [ -n "$TMUX" ]; then
         pwsh.exe
 fi
 ```
-# Install our program
+# Installation
+## Download our program
+[Download](https://github.com/smarttommyau/tmux-for-windows/releases/tag/Release)
+## setup our program
 Add the path you download our program to environment path.
-
-# Setup our program
+## setup config
 Add or edit file tmux.conf on the same folder of our program.
 ```
 distro: alpine //your distro name
