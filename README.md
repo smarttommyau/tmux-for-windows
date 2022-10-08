@@ -5,7 +5,7 @@
 
 # Setup WSL
 
-Install a new distro, alpine is recommended.\
+Install a new distro(as the backend), alpine is recommended(it is lightweight).\
 Follow the basic instruction on installing it. [Official guide](https://learn.microsoft.com/en-us/windows/wsl/install)\
 Then install tmux.\
 Alpine : apk update&&apk add tmux\
@@ -27,7 +27,7 @@ Add the path you download our program to environment path. [Article about this](
 ## Setup config
 Add or edit file ***tmux.conf*** with your favourite editor on the ***same folder of our program***.
 ```
-distro: alpine //your distro name
+distro: alpine //your distro name of the backend distro
 ```
 > currently only one parms is required and used
 # Enjoy
